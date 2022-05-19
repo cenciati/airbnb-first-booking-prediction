@@ -1,5 +1,5 @@
 # Project name
-<p align="center"><img src="imgs/banner.png"></p>
+<p align="center"><img src="figures/banner.png"></p>
 <sub>Author: Gabriel Cenciati</sub><br>
 <sub>Date: 05-18-2022</sub>
 
@@ -38,7 +38,7 @@ Placeholder
 CRISP-DM stands for cross-industry process for data mining. The CRISP-DM methodology provides a structured approach to planning a data mining project. It is a robust and well-proven methodology.
 
 This model is an idealised sequence of events. In practice many of the tasks can be performed in a different order and it will often be necessary to backtrack to previous tasks and repeat certain actions. The model does not try to capture all possible routes through the data mining process.
-<p align="center"><img src="imgs/crispdm-methodology.jpg"></p>
+<p align="center"><img src="figures/crispdm-methodology.jpg"></p>
 
 ## 2.2. Steps
 ### 2.2.1. Data pipeline

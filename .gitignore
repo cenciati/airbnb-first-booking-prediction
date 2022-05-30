@@ -468,6 +468,8 @@ junit/
 *.parquet
 *.crc
 *.snappy
+*.z
 *.feather
 *.pkl
 *.joblib
+*.bin

@@ -3,12 +3,9 @@ install:
 	pip install -r requirements.txt
 
 run:
-	docker build -t jupyter-airbnb .
+	docker build -t jupyter-airbnb:latest .
 	docker container run \
-	-it \
+	-dit \
 	--rm \
-	--name jupyter-airbnb \
-	-v ${PWD}:/home/jovyan/airbnb-first-booking-prediction \
-	-p 8888:8888 \
-	-p 4040:4040 \
+	--name notebook-airbnb \
 	jupyter-airbnb

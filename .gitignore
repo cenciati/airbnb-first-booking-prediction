@@ -475,3 +475,4 @@ junit/
 *.pkl
 *.joblib
 *.bin
+spark-warehouse/
